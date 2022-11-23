@@ -1,1 +1,1 @@
-FreeCodeCamp website I did alongside The Odin project to learn and apply skills from both.
+FreeCodeCamp website I made alongside The Odin project to learn and apply skills from both.
