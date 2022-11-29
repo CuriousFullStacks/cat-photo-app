@@ -1,1 +1,1 @@
-freeCodeCamp website I made alongside The Odin project to learn and apply skills from both
+freeCodeCamp project to learn accessibility tags & user input
